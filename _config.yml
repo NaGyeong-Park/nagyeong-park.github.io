@@ -20,7 +20,7 @@ title                    : "나경이의 IT냠"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "박 나경"
-description              : "An amazing website."
+description              : "코린이의 작은 공간"
 url                      : "https://nagyeong-park.github.io"
 baseurl                  : "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Park NaGyeong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "I am an **NumNum** person."
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:ngp.july@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
